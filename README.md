@@ -9,11 +9,12 @@ A simple Django authentication system with:
 
 ## 📦 Features
 
-- Register user
+- Register user and sending a welcoming Email on Console
 - Login user and return JWT
 - View profile (protected route)
 - Swagger/OpenAPI documentation
 - Token expires after 1 hour (configurable)
+- Login and Register Frontend Web pages using Django templating engine
 
 ## 🛠️ Installation
 
