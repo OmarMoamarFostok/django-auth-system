@@ -23,3 +23,10 @@ Clone the repo:
 ```bash
 git clone https://github.com/OmarMoamarFostok/django-auth-system.git
 cd django-auth-system
+
+### API Docs
+
+This project uses Swagger for API documentation.  
+Once the development server is running, you can access the Swagger UI at:
+
+http://localhost:8000/docs
