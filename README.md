@@ -15,6 +15,13 @@ A simple Django authentication system with:
 - Swagger/OpenAPI documentation
 - Token expires after 1 hour (configurable)
 - Login and Register Frontend Web pages using Django templating engine
+  
+### API Docs
+
+This project uses Swagger for API documentation.  
+Once the development server is running, you can access the Swagger UI at:
+
+http://localhost:8000/docs
 
 ## 🛠️ Installation
 
@@ -24,9 +31,4 @@ Clone the repo:
 git clone https://github.com/OmarMoamarFostok/django-auth-system.git
 cd django-auth-system
 
-### API Docs
 
-This project uses Swagger for API documentation.  
-Once the development server is running, you can access the Swagger UI at:
-
-http://localhost:8000/docs
