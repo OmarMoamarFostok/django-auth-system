@@ -16,7 +16,7 @@ A simple Django authentication system with:
 - Token expires after 1 hour (configurable)
 - Login and Register Frontend Web pages using Django templating engine
   
-### API Docs
+## API Docs
 
 This project uses Swagger for API documentation.  
 Once the development server is running, you can access the Swagger UI at:
